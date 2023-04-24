@@ -236,6 +236,9 @@ li {
     top: 20px;
     left: 20px;
 }
+.bag:hover{
+    top: 0;
+}
 
 .baby_reg {
     padding-top: 100px;
